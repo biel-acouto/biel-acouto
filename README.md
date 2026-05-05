@@ -7,7 +7,7 @@
 - Me chamo Gabriel Andrade, sou estudante do curso Ciências da computação no Centro Universitário de Brasília (CEUB). Um jovem muito interessado em tecnologia, sempre disposto e curioso àprender novas coisas e também empenhado.
 
 - 🔭 Atualmente estou em busca de estagios que sejam da minha área.
-- 🌱 Estou estudando C na faculadade e por fora, estudando Python, porém procuro estudar outras linguagens como Java e HTML.
+- 🌱 Python, SQL, R, JavaScript, HTML, CSS, Power BI, Excel.
 
 
 <div align="center">
